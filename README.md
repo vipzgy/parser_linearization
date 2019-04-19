@@ -7,7 +7,7 @@ java 1.8
 ## operation
 cd maltparser-1.9.1  
 update parser_linearization.sh according to your needs  
-chmod +x ./parser_linearization.sh
+chmod +x ./parser_linearization.sh  
 ./parser_linearization.sh
 
 cd extractDepAction  
